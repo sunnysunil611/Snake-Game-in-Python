@@ -1,1 +1,2 @@
-# Snake-Game-in-Python
+# Snake-Game-in-Python 
+# A Snake Game in Python language using Python Library Tkinter...
